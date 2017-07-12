@@ -1,15 +1,15 @@
-description: 'Generate image effect plugin.'
-help: 'The <info>generate:plugin:imageeffect</info> command helps you generate a new image effect plugin.'
-welcome: 'Welcome to the Drupal Image Effect Plugin generator'
+description: 'Hasilkan plugin efek gambar.'
+help: 'Perintah <info>generate:plugin:imageeffect</info> membantu anda menghasilkan plugin efek gambar yang baru.'
+welcome: 'Selamat datang di penghasil plugin efek gambar pada Drupal'
 options:
     module: common.options.module
-    class: 'Plugin class name'
-    label: 'Plugin label'
-    plugin-id: 'Plugin id'
-    description: 'Plugin Description'
+    class: 'Nama kelas plugin'
+    label: 'Label plugin'
+    plugin-id: 'Id plugin'
+    description: 'Deskripsi Plugin'
 questions:
     module: common.questions.module
-    class: 'Enter the plugin class name'
-    label: 'Enter the plugin label'
-    plugin-id: 'Enter the plugin id'
-    description: 'Enter the plugin Description'
+    class: 'Masukkan nama kelas plugin'
+    label: 'Masukkan label plugin'
+    plugin-id: 'Masukkan id plugin'
+    description: 'Masukkan deskripsi plugin'

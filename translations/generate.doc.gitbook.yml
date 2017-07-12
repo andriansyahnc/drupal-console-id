@@ -1,4 +1,4 @@
-description: 'Hasilkan dokumentasi untuk perinta perintah'
+description: 'Hasilkan dokumentasi untuk perintah perintah'
 options:
     path: 'Path untuk membuat dokumentasi'
 messages:
