@@ -1,0 +1,9 @@
+description: 'Tampilkan breakpoints yang tersedia pada aplikasi'
+options:
+    group-name: 'Masukkan Nama Grup Breakpoint'
+messages:
+    name: 'Ekstensi dengan breakpoints'
+examples:
+    -
+        description: 'Provide a group name.'
+        execution: 'drupal breakpoints:debug bartik'

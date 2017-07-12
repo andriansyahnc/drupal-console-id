@@ -1,5 +1,0 @@
-description: 'Tampilkan breakpoints yang tersedia pada aplikasi'
-options:
-    group-name: 'Masukkan Nama Grup Breakpoint'
-messages:
-    name: 'Ekstensi dengan breakpoints'
